@@ -8,5 +8,6 @@ public class Factorial {
         }
 
         System.out.println("Factorial = " + fact);
+        System.out.println("Thank you");
     }
 }
